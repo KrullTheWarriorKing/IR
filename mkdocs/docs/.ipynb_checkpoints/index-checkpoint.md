@@ -13,7 +13,7 @@ hide:
 </html>
 
 
-Ce document est régi par les termes de la licence juridique [Creative Commons CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)
+Ce document est régi par les termes de la licence juridique [Creative Commons CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr){target=}
 
 ---
 
@@ -68,7 +68,7 @@ bénéficie des tarifs d’obligation d’achat et de subvention, rassurant les 
 
 Nous vous porposons d'activement participer à cet article de **deux manières** :
 
-1. Participer aux réunions hebdomadaires afin d'échanger en direct : Tous les lundi de 19h à 20h. [Lien de la visio](https://meet.jit.si/ReunionHebdomadaireLow-tech)  |  [Lien du Pad](https://meet.jit.si/ReunionHebdomadaireLow-tech)
+1. Participer aux réunions hebdomadaires afin d'échanger en direct : Tous les lundi de 19h à 20h. [Lien de la visio](https://meet.jit.si/ReunionHebdomadaireLow-tech){target=}  |  [Lien du Pad](https://konsilion.fr/pads/article-IR){target=}
 1. Proposer du contenu, une mesure, une remarque pour l'article en envoyant le formulaire ci-dessous.
 
 ??? abstract "Formulaire de participation"
