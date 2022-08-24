@@ -2,7 +2,8 @@
 
 **Informez-nous de ce que vous faites**
 
-Vous pouvez en savoir plus sur la rédaction Markdown ici : [Y accèder](https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/)
+Ce document est contributif. Si vous n'êtes pas à l'aise avec la syntaxe markdown, ce [tutoriel](https://pad.faire-ecole.org/utiliser-codimd) est à votre disposition.
+
 
 ---
 
